@@ -1,0 +1,3 @@
+#!/bin/bash
+read -p "inter the name of dir" dir
+ls "$dir"
